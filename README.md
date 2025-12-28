@@ -397,7 +397,3 @@ The system handles various error scenarios:
 - [ ] Advanced retry and fallback logic
 - [ ] Multi-store support
 - [ ] Webhook integration for real-time updates
-
-## License
-
-MIT License
